@@ -1,4 +1,4 @@
-#include<iostream>  // for input/output operations
+#include<iostream>  
 using namespace std;
 
 int main()
